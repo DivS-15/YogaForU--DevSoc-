@@ -1,9 +1,10 @@
 # YogaForU--DevSoc-
-A simple android app that displays four asanas
-Tech used:
+A simple android app that displays four asanas.
 
-ViewBinding.
-Coil for image loading.
-Downloadable fonts
+#####Tech used:
 
-!([https://drive.google.com/file/d/1UB7B0jMsoqGLInvNq4f6i7_C1QUPdVHI/view?usp=sharing](https://github.com/DivS-15/YogaForU--DevSoc-/blob/master/ss%20yoga%20app.png))
+######ViewBinding.
+######Coil for image loading.
+######Downloadable fonts
+
+![ss yoga app](https://user-images.githubusercontent.com/87525479/170969780-7f623648-508b-4b4a-878f-78aace7fa1d4.png)
